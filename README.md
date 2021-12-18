@@ -16,6 +16,8 @@ Executing the project
 - Download Xcode file
 - open the project on Xcode
 <img width="496" alt="Screen Shot 2021-12-11 at 1 38 52 AM" src="https://user-images.githubusercontent.com/70948749/145650181-72f83740-5290-4c48-82d8-d1beb0080d29.png">
+- a window appears click on trust and open 
+<img width="267" alt="Screen Shot 2021-12-15 at 1 03 19 AM" src="https://user-images.githubusercontent.com/70948749/146633020-805c2310-30d6-48f6-b819-f4eca5af8218.png">
 - click on Unity-iphone
 - change Bundle Identifer name to a unique name (ex. p.1.1)
 <img width="867" alt="Screen Shot 2021-12-11 at 1 42 02 AM" src="https://user-images.githubusercontent.com/70948749/145650417-ea2870b1-1b06-4b1d-9c1a-b0d0f9921d55.png">
