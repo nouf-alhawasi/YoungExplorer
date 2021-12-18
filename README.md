@@ -48,9 +48,11 @@ Now to add your apple ID to work on your device
 - it should be like the image below 
 <img width="694" alt="Screen Shot 2021-12-11 at 1 54 57 AM" src="https://user-images.githubusercontent.com/70948749/145651391-fdf36d92-e7e2-4c44-928e-b4f10cb736fe.png">
 
--click on the play button to start the build
+-click on Product tab > Run  
+- to start the bulid will take few minutes 
+- after the build finishes the application will download on you IOS device 
 
-warning message will appear "could not launch"
+-warning message will appear "could not launch" when you try to open the application 
 to solve it 
 - open settings on you Iphone 
 - settings > general > Device Management > app development > choose Trust "Apple development"
