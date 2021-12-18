@@ -51,8 +51,16 @@ Now to add your apple ID to work on your device
 -click on Product tab > Run  
 - to start the bulid will take few minutes 
 - after the build finishes the application will download on you IOS device 
+- a window appears requsting access and password write your password and click on allow 
+<img width="561" alt="Screen Shot 2021-12-18 at 6 43 06 PM" src="https://user-images.githubusercontent.com/70948749/146646869-951cac21-b06d-42dd-9e0f-d160677b1ad3.png">
 
--warning message will appear "could not launch" when you try to open the application 
+
+-warning message will appear "Untrusted Developer" when you try to open the application 
+![IMG_0295](https://user-images.githubusercontent.com/70948749/146646939-2325060b-45dd-4a58-a38a-13c0b9bbac3c.jpg)
+-warning message will appear on Xcode 
+<img width="269" alt="Screen Shot 2021-12-18 at 6 40 14 PM" src="https://user-images.githubusercontent.com/70948749/146646975-a3ad4221-c47e-42a4-ac9b-b23450492c8a.png">
+
+
 to solve it 
 - open settings on you Iphone 
 - settings > general > Device Management > app development > choose Trust "Apple development"
