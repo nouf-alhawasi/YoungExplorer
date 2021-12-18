@@ -33,10 +33,17 @@ Executing the project
 
 Now to add your apple ID to work on your device 
 - click on Xcode tab > Prefrence 
+- to add your apple ID click on the plus icon show below on image 
+<img width="558" alt="Screen Shot 2021-12-18 at 10 41 26 AM" src="https://user-images.githubusercontent.com/70948749/146633601-8b79362d-cb59-4e4a-bc2f-521364643376.png">
+- choose Apple ID 
+<img width="836" alt="Screen Shot 2021-12-18 at 10 42 23 AM" src="https://user-images.githubusercontent.com/70948749/146633638-c8e74986-e1f5-40c0-9b59-4edff2726d3d.png">
+
 - add your Apple ID 
 <img width="693" alt="Screen Shot 2021-12-11 at 1 52 38 AM" src="https://user-images.githubusercontent.com/70948749/145651236-1331c2fe-11ea-481f-8925-32584522126e.png">
 
-after succesfully adding your Apple ID
+-after succesfully adding your Apple ID and appears as image below 
+<img width="559" alt="Screen Shot 2021-12-18 at 10 49 08 AM" src="https://user-images.githubusercontent.com/70948749/146633792-0ea55c3b-99fb-47b2-bf65-eb6a6aca4a16.png">
+
 - choose your Apple ID on Team drop down 
 - it should be like the image below 
 <img width="694" alt="Screen Shot 2021-12-11 at 1 54 57 AM" src="https://user-images.githubusercontent.com/70948749/145651391-fdf36d92-e7e2-4c44-928e-b4f10cb736fe.png">
